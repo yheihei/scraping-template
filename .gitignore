@@ -1,0 +1,9 @@
+configparser*
+configparser*/
+*.csv
+config.ini
+backports*/
+beautifulsoup*/
+bs4*/
+unicodecsv*/
+soupsieve*/
